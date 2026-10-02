@@ -1,0 +1,2 @@
+# WhaleTrace — no dependencies. Pure Python 3.9+ standard library.
+# `pip install -r requirements.txt` is optional and does nothing.

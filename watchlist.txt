@@ -1,0 +1,8 @@
+# WhaleTrace watchlist
+# one wallet per line:  <address> <chain>
+# chain: solana | eth | base | polygon   (default: solana)
+#
+# Example:
+# 8Jkx8w2dDwwSdju4frFRCvHrMax2ZV2DvKYRZC6jAHEK solana
+
+8Jkx8w2dDwwSdju4frFRCvHrMax2ZV2DvKYRZC6jAHEK solana

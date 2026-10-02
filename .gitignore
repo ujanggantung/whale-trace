@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+state.json
+.env
+.idea/
+.vscode/
+*.log
+demo_output.txt
