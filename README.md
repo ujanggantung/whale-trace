@@ -10,6 +10,7 @@ Zero-cost on-chain wallet profiler. Find the wallets that actually profit, score
 [![Zero API Keys](https://img.shields.io/badge/API%20keys-0-success.svg)](#-why-this-exists)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/ujanggantung/whale-trace?style=social)](https://github.com/ujanggantung/whale-trace/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ujanggantung/whale-trace)](https://github.com/ujanggantung/whale-trace/commits/main)
 
 </div>
 
@@ -51,12 +52,12 @@ That's the whole install. No `pip install`. No config file. No keys.
 ==================================================================
 WALLET  8Jkx8w2dDwwSdju4frFRCvHrMax2ZV2DvKYRZC6jAHEK
 ==================================================================
-  trades            : 99
-  tokens traded     : 39
-  closed positions  : 26
-  winrate           : 42.3%
-  realized PnL      : 0.83 SOL
-  bag value (open)  : $64.77
+  trades            : 58
+  tokens traded     : 22
+  closed positions  : 18
+  winrate           : 44.4%
+  realized PnL      : 2.683 SOL
+  bag value (open)  : $195.48
   active since      : 2026-10-02 (1 days)
 
   >>> SMART SCORE   : 62.1/100  — possibly smart — verify manually
@@ -66,7 +67,7 @@ WALLET  8Jkx8w2dDwwSdju4frFRCvHrMax2ZV2DvKYRZC6jAHEK
     - losing: winrate below 50% on closed positions
 ```
 
-**42% winrate. 1 day old. Loses money. Next.**
+**44% winrate. 1 day old. Don't follow.**
 
 ## 📊 The scoring formula (it's open)
 
